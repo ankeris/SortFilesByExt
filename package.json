@@ -1,8 +1,11 @@
 {
-  "name": "sortfilesbyext",
-  "version": "1.0.0",
+  "name": "sort_files_by_ext",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "bin/sort_files_by_ext",
+  "bin": {
+    "sort_files_by_ext": "bin/sort_files_by_ext"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
