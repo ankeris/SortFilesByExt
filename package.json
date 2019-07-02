@@ -1,6 +1,6 @@
 {
   "name": "sort_files_by_ext",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "bin/sort_files_by_ext",
   "bin": {
